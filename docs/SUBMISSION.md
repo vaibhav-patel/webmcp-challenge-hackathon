@@ -2,7 +2,7 @@
 
 Copy-paste material for the Devpost form, plus the demo-video script.
 
-**Live URL:** _<paste after deploy>_
+**Live URL:** https://webmcp-challenge-six.vercel.app
 **Repo:** https://github.com/vaibhav-patel/webmcp-challenge-hackathon
 **Demo video:** _<paste YouTube link>_
 

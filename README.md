@@ -2,6 +2,8 @@
 
 **Edit a podcast by striking through its transcript — together with your agent.**
 
+**▶ Live app: https://webmcp-challenge-six.vercel.app** — open it in ChatGPT's in-app browser or Chrome 149+ with `chrome://flags/#enable-webmcp-testing`.
+
 Papercut is a transcript-first audio editor built for the [WebMCP Challenge](https://webmcp.devpost.com). You listen; your agent edits. Ask it to *"remove all the ums and tighten every pause over half a second"* and it strikes filler and dead air out of the transcript in one pass — the words get a line through them, the waveform compacts, and the running time drops from **2:21 to 2:00** in front of you. Click any struck word to bring it back. Lock a word and the agent won't touch it. When it's right, export a finished WAV — rendered entirely in your browser.
 
 It's Descript-style transcript editing, except the editor's hands are visible WebMCP tool calls on the very audio session you're auditioning.
