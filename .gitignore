@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.vercel
+.wrangler
+
+# Large build artifact; the committed sample audio is the mp3.
+public/samples/*.wav
